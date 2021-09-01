@@ -1,0 +1,6 @@
+ran=${RANDOM:0:2}
+for(( ran=0; ran<5;ran++))
+do
+echo "$ran"
+done
+
